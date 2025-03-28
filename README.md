@@ -20,3 +20,5 @@ Game Rules:
 
 Game Score:
 guesses_remaining* number unique letters in secret_word
+
+links: https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
